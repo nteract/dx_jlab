@@ -2,9 +2,9 @@
 
 ![Github Actions Status](https://github.com/nteract/dx_jlab/workflows/Build/badge.svg)
 
+:sunny: This repo is under active development and is not ready for use. :sunny:
+
 dx on JupyterLab
-
-
 
 ## Requirements
 
